@@ -1,0 +1,15 @@
+.button-049 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    margin: 0 auto;
+    padding: .9em 2em;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 0 3px #1361b4;
+    background-color: #1361b4;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1em;
+}
